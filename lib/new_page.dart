@@ -8,7 +8,7 @@ class new_page extends StatelessWidget {
     return Scaffold(
       body: const Center(
         child: Text(
-          'ola mundo',
+          'Flutter Bottom App Bar com FAB Button (Notch Button)',
         ),
       ),
       extendBody: true,
