@@ -7,7 +7,7 @@ Flutter Bottom App Bar com FAB Button (Notch Button)
 
 
 Codigo simples
-```
+```dart
 
   return Scaffold(
       body: const Center(
