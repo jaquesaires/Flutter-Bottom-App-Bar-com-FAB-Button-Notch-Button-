@@ -6,7 +6,8 @@ Flutter Bottom App Bar com FAB Button (Notch Button)
 ![img ios](img/ios.png)
 
 
-Codigo simples
+Codigo simplificado 
+
 ```dart
 
   return Scaffold(
@@ -50,5 +51,5 @@ Codigo simples
         ),
       ),
     );
-    ```
+  
 
