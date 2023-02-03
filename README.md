@@ -3,7 +3,7 @@
 Flutter Bottom App Bar com FAB Button (Notch Button)
 
 
-![img ios](img/ios.png)
+![img ios](img/bar.png)
 
 
 Codigo simplificado 
